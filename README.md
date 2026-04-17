@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="banner.png" alt="banner" width="100%"/>
+</div>
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=u+can+just+build+things)](https://git.io/typing-svg)
 
