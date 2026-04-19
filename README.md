@@ -30,11 +30,12 @@ a builder. currently studying Software Engineering and Systems Analysis & Develo
 
 ![Java](https://img.shields.io/badge/JAVA-b45309?style=flat-square&logo=openjdk&logoColor=fef3c7)
 ![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-14532d?style=flat-square&logo=springboot&logoColor=bbf7d0)
-![MySQL](https://img.shields.io/badge/MYSQL-0e4c86?style=flat-square&logo=mysql&logoColor=bfdbfe)
+![Next.js](https://img.shields.io/badge/NEXT.JS-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0e4c86?style=flat-square&logo=typescript&logoColor=bfdbfe)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-1a3a5c?style=flat-square&logo=postgresql&logoColor=93c5fd)
-![REST API](https://img.shields.io/badge/REST_API-3b0764?style=flat-square&logoColor=e9d5ff)
+![MySQL](https://img.shields.io/badge/MYSQL-0e4c86?style=flat-square&logo=mysql&logoColor=bfdbfe)
+![Supabase](https://img.shields.io/badge/SUPABASE-14532d?style=flat-square&logo=supabase&logoColor=bbf7d0)
 ![Git](https://img.shields.io/badge/GIT-6d1f1f?style=flat-square&logo=git&logoColor=fecaca)
-![GitHub](https://img.shields.io/badge/GITHUB-21262d?style=flat-square&logo=github&logoColor=white)
 
 ---
 
@@ -46,7 +47,7 @@ a builder. currently studying Software Engineering and Systems Analysis & Develo
       <h3>💰 Finance Control</h3>
       <p>Personal finance management app — track income, expenses and financial goals.</p>
       <p><img src="https://img.shields.io/badge/STATUS-live-3fb950?style=flat-square"/></p>
-      <p><strong>Stack:</strong> Java · PostgreSQL · REST API</p>
+      <p><strong>Stack:</strong> Next.js · TypeScript · Supabase · PostgreSQL · Tailwind CSS · Vercel</p>
       <a href="https://financecontrol.online">
         <img src="https://img.shields.io/badge/financecontrol.online-a78bfa?style=flat-square&logo=vercel&logoColor=white"/>
       </a>
