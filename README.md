@@ -38,6 +38,24 @@ a builder. currently studying Software Engineering and Systems Analysis & Develo
 
 ---
 
+**projects**
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3>💰 Finance Control</h3>
+      <p>Personal finance management app — track income, expenses and financial goals.</p>
+      <p><img src="https://img.shields.io/badge/STATUS-live-3fb950?style=flat-square"/></p>
+      <p><strong>Stack:</strong> Java · PostgreSQL · REST API</p>
+      <a href="https://financecontrol.online">
+        <img src="https://img.shields.io/badge/financecontrol.online-a78bfa?style=flat-square&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 **github stats**
 
 <div align="center">
