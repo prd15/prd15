@@ -62,6 +62,6 @@ a builder. currently studying Software Engineering and Systems Analysis & Develo
 **github stats**
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prd15&show_icons=true&theme=github_dark&hide_border=true&bg_color=0e0e0e&title_color=a78bfa&icon_color=a78bfa&text_color=888888&ring_color=a78bfa" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prd15&layout=compact&theme=github_dark&hide_border=true&bg_color=0e0e0e&title_color=a78bfa&text_color=888888" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prd15&show_icons=true&hide_border=true&bg_color=0e0e0e&title_color=a78bfa&icon_color=a78bfa&text_color=888888&ring_color=a78bfa" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prd15&layout=compact&hide_border=true&bg_color=0e0e0e&title_color=a78bfa&text_color=888888" />
 </div>
