@@ -8,7 +8,7 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/@prd15-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/prd15)
+[![GitHub](https://img.shields.io/badge/@prd15-0e0e0e?style=flat-square&logo=github&logoColor=white&labelColor=0e0e0e)](https://github.com/prd15)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-fernandes-125660389/)
 
 </div>
@@ -21,21 +21,21 @@ a builder. currently studying Software Engineering and Systems Analysis & Develo
 
 - building backend applications & REST APIs with **Java + Spring Boot**
 - designing and modeling databases with **MySQL & PostgreSQL**
-- versioning code and managing workflows with **Git & GitHub**
-- developing academic and personal projects — learning by shipping
+- building full-stack products with **Next.js + Supabase**
+- developing personal projects — learning by shipping
 
 ---
 
 **things i build with**
 
-![Java](https://img.shields.io/badge/JAVA-b45309?style=flat-square&logo=openjdk&logoColor=fef3c7)
-![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-14532d?style=flat-square&logo=springboot&logoColor=bbf7d0)
-![Next.js](https://img.shields.io/badge/NEXT.JS-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0e4c86?style=flat-square&logo=typescript&logoColor=bfdbfe)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-1a3a5c?style=flat-square&logo=postgresql&logoColor=93c5fd)
-![MySQL](https://img.shields.io/badge/MYSQL-0e4c86?style=flat-square&logo=mysql&logoColor=bfdbfe)
-![Supabase](https://img.shields.io/badge/SUPABASE-14532d?style=flat-square&logo=supabase&logoColor=bbf7d0)
-![Git](https://img.shields.io/badge/GIT-6d1f1f?style=flat-square&logo=git&logoColor=fecaca)
+![Java](https://img.shields.io/badge/JAVA-f59e0b?style=flat-square&logo=openjdk&logoColor=1a0e00)
+![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-4ade80?style=flat-square&logo=springboot&logoColor=001a0a)
+![Next.js](https://img.shields.io/badge/NEXT.JS-f0f0f0?style=flat-square&logo=nextdotjs&logoColor=111)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-60a5fa?style=flat-square&logo=typescript&logoColor=001233)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-93c5fd?style=flat-square&logo=postgresql&logoColor=001020)
+![MySQL](https://img.shields.io/badge/MYSQL-7dd3fc?style=flat-square&logo=mysql&logoColor=00102a)
+![Supabase](https://img.shields.io/badge/SUPABASE-34d399?style=flat-square&logo=supabase&logoColor=001a12)
+![Git](https://img.shields.io/badge/GIT-f87171?style=flat-square&logo=git&logoColor=1a0000)
 
 ---
 
@@ -43,11 +43,13 @@ a builder. currently studying Software Engineering and Systems Analysis & Develo
 
 <table>
   <tr>
-    <td width="100%">
-      <h3>💰 Finance Control</h3>
-      <p>Personal finance management app — track income, expenses and financial goals.</p>
-      <p><img src="https://img.shields.io/badge/STATUS-live-3fb950?style=flat-square"/></p>
-      <p><strong>Stack:</strong> Next.js · TypeScript · Supabase · PostgreSQL · Tailwind CSS · Vercel</p>
+    <td>
+      <strong>💰 Finance Control</strong> &nbsp; <img src="https://img.shields.io/badge/LIVE-4ade80?style=flat-square"/>
+      <br><br>
+      Personal finance management app — track income, expenses and financial goals. Built as a PWA with offline support.
+      <br><br>
+      <code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Tailwind CSS</code> <code>Vercel</code>
+      <br><br>
       <a href="https://financecontrol.online">
         <img src="https://img.shields.io/badge/financecontrol.online-a78bfa?style=flat-square&logo=vercel&logoColor=white"/>
       </a>
@@ -60,6 +62,6 @@ a builder. currently studying Software Engineering and Systems Analysis & Develo
 **github stats**
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=prd15&show_icons=true&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=3fb950" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prd15&layout=compact&theme=github_dark&hide_border=true&title_color=a78bfa" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prd15&show_icons=true&theme=github_dark&hide_border=true&bg_color=0e0e0e&title_color=a78bfa&icon_color=a78bfa&text_color=888888&ring_color=a78bfa" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prd15&layout=compact&theme=github_dark&hide_border=true&bg_color=0e0e0e&title_color=a78bfa&text_color=888888" />
 </div>
