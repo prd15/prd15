@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=u+can+just+build+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=voc%C3%AA+pode+simplesmente+construir+coisas)](https://git.io/typing-svg)
 
 <br>
 
@@ -17,16 +17,16 @@
 
 **$ whoami**
 
-a builder. currently studying Software Engineering and Systems Analysis & Development, focused on backend development with Java.
+um builder. estudando Engenharia de Software e Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend com Java.
 
-- building backend applications & REST APIs with **Java + Spring Boot**
-- designing and modeling databases with **MySQL & PostgreSQL**
-- building full-stack products with **Next.js + Supabase**
-- developing personal projects — learning by shipping
+- desenvolvendo aplicações backend e APIs REST com **Java + Spring Boot**
+- modelando e administrando bancos de dados com **MySQL & PostgreSQL**
+- construindo produtos full-stack com **Next.js + Supabase**
+- desenvolvendo projetos pessoais — aprendendo na prática
 
 ---
 
-**things i build with**
+**com o que eu construo**
 
 ![Java](https://img.shields.io/badge/JAVA-f59e0b?style=flat-square&logo=openjdk&logoColor=1a0e00)
 ![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-4ade80?style=flat-square&logo=springboot&logoColor=001a0a)
@@ -39,14 +39,14 @@ a builder. currently studying Software Engineering and Systems Analysis & Develo
 
 ---
 
-**projects**
+**projetos**
 
 <table>
   <tr>
     <td>
-      <strong>💰 Finance Control</strong> &nbsp; <img src="https://img.shields.io/badge/LIVE-4ade80?style=flat-square"/>
+      <strong>💰 Finance Control</strong> &nbsp; <img src="https://img.shields.io/badge/ONLINE-4ade80?style=flat-square"/>
       <br><br>
-      Personal finance management app — track income, expenses and financial goals. Built as a PWA with offline support.
+      Aplicativo de gestão financeira pessoal — controle de receitas, despesas e metas financeiras. Desenvolvido como PWA com suporte offline.
       <br><br>
       <code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Tailwind CSS</code> <code>Vercel</code>
       <br><br>
@@ -59,9 +59,9 @@ a builder. currently studying Software Engineering and Systems Analysis & Develo
 
 ---
 
-**github stats**
+**estatísticas**
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prd15&show_icons=true&hide_border=true&bg_color=0e0e0e&title_color=a78bfa&icon_color=a78bfa&text_color=888888&ring_color=a78bfa" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prd15&layout=compact&hide_border=true&bg_color=0e0e0e&title_color=a78bfa&text_color=888888" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prd15&show_icons=true&hide_border=true&bg_color=0e0e0e&title_color=a78bfa&icon_color=a78bfa&text_color=888888&ring_color=a78bfa&locale=pt-br" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prd15&layout=compact&hide_border=true&bg_color=0e0e0e&title_color=a78bfa&text_color=888888&locale=pt-br" />
 </div>
